@@ -1,0 +1,15 @@
+.conversion-square {
+  width: 100%;
+  position: relative;
+}
+.item-button {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+.item-button a{
+  padding:5px 15px 7px 15px;
+}
