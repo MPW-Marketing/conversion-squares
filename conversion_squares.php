@@ -32,7 +32,7 @@ function conv_square ( $atts ) {
   if ( !empty($atts['id']) ) {
     $cont .= 'id="' . $atts['class'] . '"';
   }
-  $cont .= '>'
+  $cont .= '>';
   $cont .= '<div class="icon-container">
     <img src="'. $atts['icon'] .'" class="aligncenter "></div>';
   $cont .= '<div class="item-text">
